@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatFirebase</string>
+    <string name="sair">Sair</string>
+    <string name="enviar">Enviar</string>
+</resources>
